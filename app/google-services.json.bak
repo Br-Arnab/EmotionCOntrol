@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3441366605",
+    "project_id": "emotion-control",
+    "storage_bucket": "emotion-control.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3441366605:android:a71541c8e022090322ee04",
+        "android_client_info": {
+          "package_name": "com.example.emotioncontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3441366605-q0cmeh4jqque2g52lrs5oadlsp1abho5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0s-NPJurnPYAgsL902I92qy0om8P-5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3441366605-q0cmeh4jqque2g52lrs5oadlsp1abho5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
